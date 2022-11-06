@@ -1,0 +1,16 @@
+.test{
+    width: 50%;
+    margin: 10px auto;
+    border: solid;
+    box-shadow: 1px 2px 3px;
+    padding: 10px;
+}
+.text-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-con img{
+width: 80px;
+height: 80px;
+}
